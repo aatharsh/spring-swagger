@@ -1,8 +1,8 @@
 /**
 *
-* @package  code-challenge-task-manage
+* @package  spring-swagger
 * @author   Aatharsh Girishwar Vijaya Sugumar
-* @task     Code task by Solnet
+* @task     Implementing swagger in spring
 * @app      Spring application to allow users to manage their task data
 * 
 */
